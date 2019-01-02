@@ -16,6 +16,13 @@ public class hello  implements hello1{
         System.out.println(a);
         System.out.println(b);
 
+
+
+        mammalint1 dd=new mammalint1();
+
+        dd.getgo();
+        dd.setgo();
+
     }
 
 
