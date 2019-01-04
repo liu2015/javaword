@@ -10,5 +10,8 @@ public class mammalint1  implements mammalint{
     public void getgo() {
 
         System.out.println("get:得到");
+
+        System.out.println("set:放置");
+
     }
 }
