@@ -21,6 +21,8 @@ public class hello  implements hello1{
         dd.setgo();
 
 
+
+
         System.out.println("20190103");
 
     }
