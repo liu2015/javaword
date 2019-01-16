@@ -1,7 +1,7 @@
 public  interface mammalint {
 
-    public void setgo();
-    public  void getgo();
+    public void setgo();  //放置
+    public  void getgo();  //获得
 
 
 

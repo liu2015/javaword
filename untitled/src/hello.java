@@ -22,7 +22,7 @@ public class hello  implements hello1{
 
 
 
-
+        System.out.println("ceshizhi:wq" );
         System.out.println("20190103");
 
     }
