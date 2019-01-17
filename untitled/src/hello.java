@@ -20,7 +20,7 @@ public class hello  implements hello1{
         dd.getgo();
         dd.setgo();
 
-
+        System.out.println("更新20190117");
 
         System.out.println("ceshizhi:wq" );
         System.out.println("20190103");
