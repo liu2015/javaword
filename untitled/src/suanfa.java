@@ -15,9 +15,10 @@ public class suanfa {
       {
 
          i=i*2;
-         k=i+k;
 
-          System.out.println("i  "+k);
+  k=i+k;
+
+          System.out.println("i  "+j+"的"+k);
 
       }
 
