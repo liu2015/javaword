@@ -19,6 +19,10 @@ public class hello  implements hello1{
 
         hell2019 ddss =new hell2019();
         ddss.dde();
+        ddss.setgo();
+int v;
+v=        ddss.getgo();
+System.out.println(v);
 
     }
 
