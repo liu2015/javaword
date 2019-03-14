@@ -22,13 +22,19 @@ public class hello  implements hello1{
         ddsw.getgo();
          int ww=ddsw.silver(1,22);
         System.out.println("jieguo "+ww);
-
 int v;
 v=ddss.getgo();
 System.out.println(v);
 beicheng dww=new beicheng();
 dww.getgo();
-
+shixain ddwww =new shixain();
+ddwww.getgo();
+ddwww.setgo();
+String str[]={"ceshi","wend","xianshi"};
+for (int i=0;i<str.length;i++)
+{
+    System.out.println("输出数组 "+str[i]);
+}
     }
 
 }
