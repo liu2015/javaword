@@ -23,6 +23,9 @@ public class hello  implements hello1{
 int v;
 v=        ddss.getgo();
 System.out.println(v);
+beicheng dww=new beicheng();
+dww.getgo();
+
 
     }
 
