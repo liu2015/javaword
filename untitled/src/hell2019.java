@@ -25,17 +25,13 @@ while (i>0)
         for (String name:name3
              ) {
             System.out.println("leibianshuzu +"+name);
-            
         }}
         public int getgo(){
-
             String []  name3={"33","22","23311"};
-
             int i=33;
-
             return i;
-
         }
+    }
 
 
 
@@ -43,4 +39,4 @@ while (i>0)
 
 
 
-}
+

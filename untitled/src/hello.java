@@ -20,6 +20,15 @@ public class hello  implements hello1{
         hell2019 ddss =new hell2019();
         ddss.dde();
         ddss.setgo();
+
+        suanfa ddsw=new suanfa();
+        ddsw.getgo();
+         int ww=ddsw.silver(1,22);
+        System.out.println("jieguo "+ww);
+
+
+
+
 int v;
 v=        ddss.getgo();
 System.out.println(v);
