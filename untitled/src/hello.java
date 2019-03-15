@@ -43,18 +43,16 @@ public class hello implements hello1 {
         list1.add(1);
         list1.add(2);
         Iterator id = list1.iterator();
-
-
 //System.out.println(list1);
         for (int i = 0; i < 2; i++) {
             System.out.println(id.next());
-
         }
         String sd[] = {"11", "2", "23", "32"};
 
         for (int e = 0; e < sd.length; e++) {
             System.out.println("输出结果" + sd[e]);
         }
+        int i = sd.length;
+        System.out.println("ide " + i);
     }
-
 }
