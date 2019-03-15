@@ -11,7 +11,7 @@ public class beicheng {
             i++;
             System.out.println("jieguo" + sum);
         }
-        System.out.println("sum"+(sum+10));
+        System.out.println("sum" + (sum + 10));
 
     }
 }
