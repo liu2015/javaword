@@ -19,8 +19,7 @@ public class hell2019 {
 
     public void setgo() {
         String[] name3 = {"33", "22"};
-        for (String name : name3
-        ) {
+        for (String name : name3) {
             System.out.println("leibianshuzu +" + name);
         }
     }

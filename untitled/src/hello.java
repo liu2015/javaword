@@ -54,5 +54,12 @@ public class hello implements hello1 {
         }
         int i = sd.length;
         System.out.println("ide " + i);
+
+        jicheng dds = new jicheng();
+        int ds = dds.getgo();
+
+        System.out.println(ds);
+        dds.wwd();
+
     }
 }
