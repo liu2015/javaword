@@ -8,4 +8,10 @@ public interface shuzu {
     public  void getgo(); //获得
 
 
+
+
+
+
+
+
 }
